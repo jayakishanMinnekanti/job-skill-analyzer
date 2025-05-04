@@ -140,6 +140,7 @@ job-skill-analyzer/
 ```
 
 ---
+> 🔐 See our [Security Policy](./SECURITY.md) for how to report vulnerabilities.
 
 ## 🪪 License
 
